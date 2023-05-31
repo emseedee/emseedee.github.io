@@ -19,7 +19,7 @@ Bible Cake
 Melandra Loaf
 
 ### Staples
-Sourdough Bread
+[Sourdough Bread](/sourdough.html)
 
 ### Savoury stuff
 Sweet Cucumber Pickle
