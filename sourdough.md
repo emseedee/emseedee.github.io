@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sourdough Bread
+---
+
 ## Sourdough bread
 ![Picture of sourdough loaf](assets/images/sourdough.jpg)
 
