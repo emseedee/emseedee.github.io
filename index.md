@@ -2,12 +2,10 @@
 layout: default
 title: Home
 ---
+![under construction banner](/assets/images/construction2.png)
 
-<h1>{{"Hello New World" | downcase}}</h1>
+This site is under construction, but in the meantime, please feel free to browse through [my favourite recipes](/recipes.html)
 
-Link to <a href="https://emseedee.plus.com"> Mike's site</a>
-
-[Another link](https://commonmark.org/help/)
 
 
 ## That's all folks!
