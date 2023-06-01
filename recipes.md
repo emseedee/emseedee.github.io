@@ -12,11 +12,11 @@ These are some of my favourite recipes, listed here so that I can find them easi
 
 [Oaty Flapjack](/flapjack.html)
 
-Banana and Walnut Loaf
+[Banana and Walnut Loaf](/banana.html)
 
-Bible Cake
+[Bible Cake](/bible.html)
 
-Melandra Loaf
+[Melandra Loaf](/melandra.html)
 
 ### Staples
 [Sourdough Bread](/sourdough.html)
@@ -24,6 +24,6 @@ Melandra Loaf
 ### Savoury stuff
 [Sweet Cucumber Pickle](/cucumber.html)
 
-Red Onion Marmalade
+[Red Onion Marmalade](/red-onion.html)
 
  
