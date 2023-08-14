@@ -18,6 +18,8 @@ These are some of my favourite recipes, listed here so that I can find them easi
 
 [Melandra Loaf](/melandra.html)
 
+[Coventry Godcakes](/godcakes.html)
+
 ### Staples
 [Sourdough Bread](/sourdough.html)
 
