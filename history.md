@@ -43,7 +43,7 @@ H. M. S. Coventry in the Falklands War and other memorials.
 ## The Bishop’s High Chair (1833) {#bishops_chair}
 This was commissioned by the Vicar, Walter Farquhar Hook for his friend, the Bishop of Ross, Moray and Argyle to be "carried" into the church, 
 Church of England law precluded Scottish clergy "setting foot" in its churches.
-  [Back to top](#top)
+<br>[Back to top](#top)
 ## The Marler Chapel (or Mercers' Chapel) {#marler_chapel}
 This was founded in 1526-7 and was built by Richard Marler - a rich Coventry Merchant. 
 The ceiling which is finely carved (note that Richard Marler's merchant's mark is also carved here in the roof) 
