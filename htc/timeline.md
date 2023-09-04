@@ -37,7 +37,7 @@ title: Holy Trinity Coventry Timeline
 		<td> First church destroyed by fire, but quickly rebuilt. The North Porch is thought to be the only remnant of the earlier church </td>
 	</tr>
 	<tr>
-		<td> 1296
+		<td> 1296</td>
 		<td> St Thomas’ chapel (now known as the Peace chapel) added</td>
 	</tr>
 	<tr>
@@ -94,4 +94,3 @@ title: Holy Trinity Coventry Timeline
 		<td> The parish church of St Michael is re-designated as Coventry Cathedral, and the Diocese of Coventry is established on 6th September</td>
 	</tr>
 </table>
-
