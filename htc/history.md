@@ -53,7 +53,7 @@ The glazed openings were a doorway opening into the North Porch. The chapel now 
 two young soldiers from Coventry who lost their lives in that war, a stone tablet commemorated to those who lost their lives on 
 H. M. S. Coventry in the Falklands War and other memorials.
 <br>[Back to top](#top)
-## The Bishop’s High Chair). {#bishops_chair}
+## The Bishop’s High Chair. {#bishops_chair}
 This was commissioned  in 1833 by the Vicar, Walter Farquhar Hook for his friend, the Bishop of Ross, Moray and Argyle to be "carried" into the church, 
 Church of England law precluded Scottish clergy "setting foot" in its churches.
 <br>[Back to top](#top)
