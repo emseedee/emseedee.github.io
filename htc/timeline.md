@@ -58,7 +58,7 @@ title: Holy Trinity Coventry Timeline
 	</tr>
 	<tr>
 		<td> 1430-1433</td>
-		<td> Doom painting added to West-facing tower wall (in nave)</td>
+		<td> Doom painting added to west-facing tower wall (in nave)</td>
 	</tr>
 	<tr>
 		<td> 1470</td>
