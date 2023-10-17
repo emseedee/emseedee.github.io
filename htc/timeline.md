@@ -4,6 +4,11 @@ title: Holy Trinity Coventry Timeline
 ---
 
 ## List of significant dates in the history of Holy Tinity Church, Coventry.
+<style>
+    .table td, .table th {
+        font-size: 10px;
+    }
+</style>
 
 <table border="1">
 	<tr>
