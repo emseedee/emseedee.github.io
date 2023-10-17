@@ -7,9 +7,12 @@ title: Holy Trinity Coventry Timeline
 
 <style>
 body(
-	background_color: lightred;
+	background-color: lightred;
 	}
-
+	
+table,th,td {
+border: 1px solid;
+}
 </style>
 
 <table>
