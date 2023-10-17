@@ -7,7 +7,7 @@ title: Holy Trinity Coventry Timeline
 
 <table border="1">
 	<tr>
-		<th> Date</th>
+		<th style="width:20%"> Date</th>
 		<th> Event</th>
 	</tr>
 	<tr>
