@@ -4,7 +4,7 @@ title: Melandra Loaf
 ---
 
 ## Melandra Loaf
-![Picture of Melandra Loaf](assets/images/melandra.jpg)
+![Picture of Melandra Loaf](/assets/images/melandra.jpg)
 
 My take on the traditional Derbyshire recipe. It's based on sourdough rather than a yeasted dough, mildy enriched with fat and milk, and with lots of fruit. 
 My inspiration came from the Hairy Bikers, and I've merged it with my standard sourdough recipe, which is based on the "Bake with Jack" YouTube series.

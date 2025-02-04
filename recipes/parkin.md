@@ -4,7 +4,7 @@ title: Yorkshire Parkin
 ---
 ## Mary's Yorkshire sponge parkin
 
-![Picture of parkin](assets/images/parkin.jpg)
+![Picture of parkin](/assets/images/parkin.jpg)
 
 My mum Mary's recipe, dating from way-back-when, and still as good as ever. It freezes well, but it's best to slice it before freezing.
 
@@ -20,7 +20,7 @@ My mum Mary's recipe, dating from way-back-when, and still as good as ever. It f
 
 ### Method
 1. Heat oven to 180C / 160C fan. Grease and line a shallow baking tin, about 250mm square by about 30mm deep.
-2. Mix oatmeal, flour, ginger and sugar together thoroughly. Warn butter and treacle in a pan, and beat together. Add the dry ingredients and the beaten egg alternately, a little at a time.
+2. Mix oatmeal, flour, ginger and sugar together thoroughly. Warm butter and treacle in a pan, and beat together. Add the dry ingredients and the beaten egg alternately, a little at a time.
 3. Pour mixture into tin and bake for about 1.5 hours. When cool, wrap in foil. Best left to mature for 24 hours before eating.
 
 ### Notes

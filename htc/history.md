@@ -1,5 +1,5 @@
 ---
-layout: htc_default
+layout: page
 title: HTC History
 ---
 # HTC History - key areas of the church {#top}

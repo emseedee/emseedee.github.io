@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recipes 2
+title: Recipes
 ---
 ![recipe banner](/assets/images/recipe_banner.jpg)
 

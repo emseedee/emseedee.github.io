@@ -1,15 +1,13 @@
 ---
-layout: default
+layout: page
 title: Website Tech Stuff
 ---
-## Website technical information
 
 ### Overview
-The site is published through github.io, and managed on a Windows 11 PC. Almost all of the content is authored in Markdown, which is converted to HTML using Jekyll. 
+The site is served by Nginx running on a Raspberry Pi5 that lives in my study, somewhere in middle England. 
+Almost all of the content is authored in Markdown which is converted to HTML using Jekyll. 
 
-Jekyll runs under Linux, so the PC uses Windows Subsystem for Linux (WSL) to create a virtual Ubuntu command line environment. 
-
-Jekyll creates an image of the website on the PC; this is copied to the github server using the Github desktop app. 
 
 ### Links
-
+My SSL certificate is provided by those good folks at [Let's Encrypt](https://letsencrypt.org) <br>
+There's more information about Jekyll at [jekyllrb.com](https://jekyllrb.com)

@@ -20,4 +20,4 @@ A family favourite that goes well with cheeses and cold meats. Makes about 3 x 4
 4. Season to taste with salt and black pepper and pot into sterilised jars.
 
 ### Credits
-I found this recipe on pickleandpreserve.co.uk
+I found this recipe on pickleandpreserve.co.uk. Unfortunately this site doesn't seem to exist any more. 

@@ -4,7 +4,7 @@ title: Banana and Walnut Loaf
 ---
 
 ## Banana and Walnut Loaf
-![Picture of Banana and Walnut Loaf](assets/images/banana-walnut-loaf.jpg)
+![Picture of Banana and Walnut Loaf](/assets/images/banana-walnut-loaf.jpg)
 
 Definitely the best banana bread I've tried. The addition of the walnuts seems to stop it from being too stodgy
 
