@@ -18,7 +18,7 @@ as well as links to some of the music that I use when I'm playing the piano for 
 I'm also a motorcyclst, and an active member of  [Warwickshire and Solihull Blood Bikes](https://wsbb.org). 
 You can find out more about me and my bikes [on this page](/bikes/index.html)
 
-The site is hosted on [Github Pages](https://pages.github.com}. It is written mainly in Markdown and published with Jekyll. There is more information [on this page](/web-tech.html)
+The site is hosted on [Github Pages](https://pages.github.com). It is written mainly in Markdown and published with Jekyll. There is more information [on this page](/web-tech.html)
 
 
 ## That's all folks!
