@@ -28,7 +28,7 @@ twitter_username: mseedee
 github_username:  emseedee
 
 # Build settings
-remote-theme: hyde
+remote_theme: hyde
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
