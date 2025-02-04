@@ -28,7 +28,7 @@ twitter_username: mseedee
 github_username:  emseedee
 
 # Build settings
-theme: minima
+remote-theme: hyde
 plugins:
   - jekyll-feed
   
