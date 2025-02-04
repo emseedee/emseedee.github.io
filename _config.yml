@@ -31,6 +31,7 @@ github_username:  emseedee
 remote-theme: hyde
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
   
 header_pages:  
   -index.md
