@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-![under construction banner](assets/images/construction2.png)<br>
+![under construction banner](/assets/images/construction2.png)<br>
 
 This site is almost permanently under construction; if you're waiting for me to finish it, 
 you could be here for a long time. In the meantime, please feel free to browse through a few bits of information that 
