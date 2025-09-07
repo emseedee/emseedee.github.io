@@ -8,7 +8,8 @@ title: Holy Trinity Coventry Timeline
 
 |  Date  |  Event  |
 |:------------|:--------------|
-| 1016 | Destruction of St Osburg's nunnery by King Canute |
+|  700 | Foundation of a saxon nunnery named for St Osburh (Osburga) |
+| 1016 | Destruction of St Osburg's nunnery by King Canute (Cnut) |
 | 1043 | Dedication to St Mary of a Benedictine Monastery, built by Leofric, Earl of Mercia &  Lady Godiva on remains of St Osburg’s nunnery. Leofic endowed monastery with the northern  half of his estates in Coventry, making it one of the richest in England |
 | 1085 | See of Chester moved to Coventry & renamed |
 | 1102 | Papal authorisation granted for Priory (monastery) church to also be cathedral |
