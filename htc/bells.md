@@ -16,7 +16,7 @@ guidance of George Gilbert Scott in 1856, and installed in a temporary wooden ca
 north side of Priory Row. According to contemporary reports, the wooden structure was not sufficiently 
 robust to allow the bells to be rung, and eventually an Ellacombe apparatus was installed that allowed them to be chimed.
 
-In 1966 the tower, which was in a decayed state, was removed to make room for a church centre. The bells were taken to 
+In 1966 the belfry, which was in a decayed state, was removed, partially to make room for a church centre. The bells were taken to 
 Taylor's foundry in Loughborough where they were stored for 10 years before being eventually sold to
 Christchurch cathedral in New Zealand for the value of the metal. 
 
