@@ -1,14 +1,10 @@
 ---
 layout: default
-title: HTC Photos
+title: HTC Photo Gallery
 ---
-# Photos of and related to Holy Trinity {#top}
-![West End in wartime](/assets/images/HTC/Wartime_West_End.jpg)
-The West end of Holy Trinity during WWII <br>
-![City Centre after the blitz](/assets/images/HTC/Bombed_Broadgate.JPG)
-View of the city centre from Holy Trinity spire after the blitz in November 1940
-<br>
-![Blitzed Broadgate](/assets/images/HTC/Bombed_Broadgate_2.webp)
-View of Broadgate from Holy Trinity spire after the blitz in November 1940
+# Photos Gallery {#top}
+[The area around HTC after the blitz](/htc/wartime_photos.html)<br>
+[St Michael's church (the Old Cathedral)]/htc/old_cathedral.html)<br>
+
 <br>[Back to top](#top)
 
