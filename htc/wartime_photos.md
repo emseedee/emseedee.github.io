@@ -11,4 +11,5 @@ View of the city centre from Holy Trinity spire after the blitz in November 1940
 ![Blitzed Broadgate](/assets/images/HTC/Bombed_Broadgate_2.webp)
 View of Broadgate from Holy Trinity spire after the blitz in November 1940
 <br>[Back to top](#top)
+<br>![Back to Photo Gallery](/htc/photos.html)
 

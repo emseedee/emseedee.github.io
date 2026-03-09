@@ -11,4 +11,5 @@ David Gee's paining of the outside of St. Michael's church with Holy Trinity in 
 ![St Michael's cathedral internal view, before the blitz](/assets/images/HTC/St_Michaels.jpg)
 Inside view of St Michaels cathedral before the blitz in November 1940
 <br>[Back to top](#top)
+<br>![Back to Photo Gallery](/htc/photos.html)
 
