@@ -10,7 +10,7 @@ However, since you're here, please feel free to look around
 
 [Tour of the Church](/htc/history.html)<br>
 [Timeline of some important events in HTC's history](/htc/timeline.html)<br>
-[Photos of and related to Holy Trinity](/htc/photos.html)<br>
+[Photo Gallery](/htc/photos.html)<br>
 [The bells of Holy Trinity](/htc/bells.html)<br>
 [Back to the site index](/index.html)
 
