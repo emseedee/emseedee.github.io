@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Recipes
 ---
 ![recipe banner](/assets/images/recipe_banner.jpg)
