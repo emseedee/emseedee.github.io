@@ -2,9 +2,9 @@
 layout: default
 title: St Michael's
 ---
-# Photos of St Michaels Church, and later as Coventry Cathedral{#top}
+# Photos of St Michaels Church, and later as Coventry Cathedral {#top}
 ![David Gee painting of inside](/assets/images/HTC/Gee_painting_1.JPG)
-David Gee's painting of the inside of St Michaels'd church, 1862 <br>
+David Gee's painting of the inside of St Michael's church, 1862 <br>
 ![David Gee painting of St Michael's and Holy Trinity churches](/assets/images/HTC/Gee_painting_2.JPG)
 David Gee's paining of the outside of St. Michael's church with Holy Trinity in the background
 <br>
