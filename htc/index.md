@@ -14,7 +14,7 @@ However, since you're here, please feel free to look around
 [The bells of Holy Trinity](/htc/bells.html)<br>
 [The plaque at 8 Priory Row](/htc/plaque.html)<br>
 [A City Divided](/htc/divided.html)<br>
-[Back to the site index](/index.html)
+[Back to the Holy Trinity index](/htc/index.html)
 
 
 
