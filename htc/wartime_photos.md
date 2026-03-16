@@ -2,7 +2,7 @@
 layout: default
 title: The blitz
 ---
-# Photos of and related to Holy Trinity {#top}
+# Photos of wartime Coventry {#top}
 ![West End in wartime](/assets/images/HTC/Wartime_West_End.jpg)
 The West end of Holy Trinity during WWII <br>
 ![City Centre after the blitz](/assets/images/HTC/Bombed_Broadgate.JPG)
