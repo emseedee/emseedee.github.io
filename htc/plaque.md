@@ -15,3 +15,5 @@ Here about 1140 AD was commenced the building of the Benedictine priory  church 
 
 Sic transit gloria mundi.<br>
 (*Thus the glory of the world passes*)
+<br>
+[Back to the site index](/index.html)

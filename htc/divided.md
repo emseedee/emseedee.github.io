@@ -32,4 +32,6 @@ The Earl's tenants traded independently while the Prior's tenants worked for the
 Coventry became a city in 1345 when King Edward III granted a Royal Charter of Incorporation, meaning Coventry could now govern itself with a council and an elected mayor.
 Soon both the Prior's and Earl's territories had come under the control of the Corporation, the forerunner of today's city council.
 
-*Originally published in Coventry Live in 2017*
+*Originally published in Coventry Live in 2017* <br>
+
+[Back to the site index](/index.html)
