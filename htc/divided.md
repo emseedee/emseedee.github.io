@@ -11,15 +11,13 @@ Having become extremely wealthy on the back of Coventry's wool trade, and needin
 
 As a result Holy Trinity and St Michael's Church were built on the same hilltop just 50 yards apart.
 
-
 Holy Trinity on the north side of the hill became the parish church for the Prior and the general public, while St Michael's 
 to the south was the parish church for the Earl and his tenants - namely the gentry and traders. The present structure largely originates from the late 1300s to early 1400s but originally a smaller chapel of Norman design stood on the site.
 
 ### St. Michael's
-
-It was first mentioned in 1138, and was referred to in one record as "the church of St Michael's in the Bailey", which gives some idea of its origin within the grounds of Coventry Castle.
+St Michael's was first mentioned in 1138, and was referred to in one record as "the church of St Michael's in the Bailey", which gives some idea of its origin within the grounds of Coventry Castle.
 It became one of the largest and finest parish churches in England and, in 1918, was elevated to cathedral status on the creation of the Coventry Diocese.
-The building now stands ruined after being bombed during World War Two. Only the tower, spire, the outer wall remain.
+The building now stands ruined after being bombed during World War Two. Only the tower, spire and the outer wall remain.
 
 ### Holy Trinity
 
@@ -33,4 +31,4 @@ The Earl's tenants traded independently while the Prior's tenants worked for the
 Coventry became a city in 1345 when King Edward III granted a Royal Charter of Incorporation, meaning Coventry could now govern itself with a council and an elected mayor.
 Soon both the Prior's and Earl's territories had come under the control of the Corporation, the forerunner of today's city council.
 
-Originally published in Coventry Live in 2017
+*Originally published in Coventry Live in 2017*
