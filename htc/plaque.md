@@ -1,6 +1,6 @@
 ## The Plaque at 8 Priory Row
 
-![Historic wall plaque ](/assets/images/HTC/Priory_plaque_1.jpg)
+![Historic wall plaque ](/assets/images/HTC/Priory_Plaque_1.jpg)
 ### The plaque reads:
 
 You are standing upon the site of three ancient edifices.<br>
